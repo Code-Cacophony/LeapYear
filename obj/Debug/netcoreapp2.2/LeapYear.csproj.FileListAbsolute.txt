@@ -1,0 +1,11 @@
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/bin/Debug/netcoreapp2.2/LeapYear.deps.json
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/bin/Debug/netcoreapp2.2/LeapYear.runtimeconfig.json
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/bin/Debug/netcoreapp2.2/LeapYear.runtimeconfig.dev.json
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/bin/Debug/netcoreapp2.2/LeapYear.dll
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/bin/Debug/netcoreapp2.2/LeapYear.pdb
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/obj/Debug/netcoreapp2.2/LeapYear.csprojAssemblyReference.cache
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/obj/Debug/netcoreapp2.2/LeapYear.csproj.CoreCompileInputs.cache
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/obj/Debug/netcoreapp2.2/LeapYear.AssemblyInfoInputs.cache
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/obj/Debug/netcoreapp2.2/LeapYear.AssemblyInfo.cs
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/obj/Debug/netcoreapp2.2/LeapYear.dll
+/Users/erikgrove/Desktop/code/Repositories/LeapYear/obj/Debug/netcoreapp2.2/LeapYear.pdb
